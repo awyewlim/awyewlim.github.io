@@ -23,7 +23,7 @@ email: yewlim00@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I am a Year 2 data science student who is passionate about AI and Machine/Deep Learning.
   Currently seeking for internships to expand knowledge and enhance skills. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: awyewlim
 github_username:  awyewlim
