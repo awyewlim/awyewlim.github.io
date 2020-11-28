@@ -20,7 +20,7 @@ Dataset : Casting Product Image Data for Quality Inspection
 </p>
 <br>
 
-<a href="https://github.com/awyewlim/Facial-Expression-Recognition"><h3>Facial Expression Recognition<h3></a>
+<a href="https://github.com/awyewlim/Facial-Expression-Recognition"><h3>Facial Expression Recognition</h3></a>
 <p>
 This project is to build and train a convolutional neural network (CNN) in Keras from scratch to recognize facial expressions. The data consists of 48x48 pixel grayscale images of faces. The objective is to classify each face based on the emotion shown in the facial expression into one of seven categories. (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral)
 
